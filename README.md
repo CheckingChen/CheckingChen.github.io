@@ -1,8 +1,8 @@
 ## 等我高考完了回来一定整
 
-You can use the [editor on GitHub](https://github.com/CheckingChen/CheckingChen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+2020年的时候弄过一次，后面Gredia转移数据库时出错了就一直显示报错
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+害...
 
 ### Markdown
 
